@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAmamiyaAhmad
-- 👀 I’m interested in Cyber Security and Data Science and Machine Learning.
-- 🌱 I’m currently learning Cyber Security
+- 👀 I’m interested in Cyber Security, Data Science and Machine Learning.
+- 🌱 I’m currently learning Cyber Security and Golang 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
